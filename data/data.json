@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Fantastika",
+    "rating": 8.8,
+    "duration": 148,
+    "director": "Kristofer Nolan",
+    "poster": "images/inception.jpg",
+    "description": "Tushlar ichiga kirib, odamlarning ongiga g'oya joylashtiradigan o'g'rilar jamoasi haqida murakkab va hayajonli film."
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Jangari",
+    "rating": 9.0,
+    "duration": 152,
+    "director": "Kristofer Nolan",
+    "poster": "images/dark-knight.jpg",
+    "description": "Batman Gotham shahrini xaosga botirmoqchi bo'lgan Joker'ga qarshi kurashadi."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Fantastika",
+    "rating": 8.7,
+    "duration": 169,
+    "director": "Kristofer Nolan",
+    "poster": "images/interstellar.jpg",
+    "description": "Yer yashash uchun yaroqsiz bo'lib borayotgan paytda, bir guruh kashfiyotchilar qurt tuynugi orqali yangi uy izlaydi."
+  },
+  {
+    "id": 4,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 8.8,
+    "duration": 142,
+    "director": "Robert Zemekis",
+    "poster": "images/forrest-gump.jpg",
+    "description": "Oddiy, mehribon yigitning ko'z oldida Amerika tarixining muhim voqealari o'tib boradi."
+  },
+  {
+    "id": 5,
+    "title": "The Lion King",
+    "year": 1994,
+    "genre": "Multfilm",
+    "rating": 8.5,
+    "duration": 88,
+    "director": "Rojer Allers",
+    "poster": "images/lion-king.jpg",
+    "description": "Yosh sher Simba otasining o'limidan keyin qochib ketadi va oxir-oqibat taxtini qaytarish uchun qaytadi."
+  },
+  {
+    "id": 6,
+    "title": "Toy Story",
+    "year": 1995,
+    "genre": "Multfilm",
+    "rating": 8.3,
+    "duration": 81,
+    "director": "Jon Lasseter",
+    "poster": "images/toy-story.jpg",
+    "description": "Bola yo'qligida jonlanadigan o'yinchoqlar: kovboy Vudi va yangi kelgan kosmonavt Bazz o'rtasidagi do'stlik."
+  },
+  {
+    "id": 7,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": "Jangari",
+    "rating": 8.4,
+    "duration": 181,
+    "director": "Russo birodarlar",
+    "poster": "images/endgame.jpg",
+    "description": "Thanos olamning yarmini yo'q qilgandan keyin, qolgan qahramonlar hamma narsani qaytarish uchun so'nggi urinishni qiladi."
+  },
+  {
+    "id": 8,
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Drama",
+    "rating": 7.9,
+    "duration": 195,
+    "director": "Jeyms Kemeron",
+    "poster": "images/titanic.jpg",
+    "description": "Birinchi va oxirgi safariga chiqqan ulkan kemada tanishgan ikki yoshning sevgi hikoyasi."
+  },
+  {
+    "id": 9,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.3,
+    "duration": 142,
+    "director": "Frank Darabont",
+    "poster": "images/shawshank.jpg",
+    "description": "Bekorga ayblangan bankir qamoqxonada do'st orttiradi va umidini yo'qotmaydi."
+  },
+  {
+    "id": 10,
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Jangari",
+    "rating": 8.5,
+    "duration": 155,
+    "director": "Ridli Skott",
+    "poster": "images/gladiator.jpg",
+    "description": "Xiyonat qilingan Rim generali gladiatorga aylanadi va Kolizeyda qasos olish yo'lini tanlaydi."
+  },
+  {
+    "id": 11,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Fantastika",
+    "rating": 8.7,
+    "duration": 136,
+    "director": "Vachovski opa-singillar",
+    "poster": "images/matrix.jpg",
+    "description": "Dasturchi Neo o'zi yashayotgan olam sun'iy dastur ekanini bilib oladi va haqiqatga uyg'onadi."
+  },
+  {
+    "id": 12,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Drama",
+    "rating": 8.5,
+    "duration": 132,
+    "director": "Bon Chun Xo",
+    "poster": "images/parasite.jpg",
+    "description": "Kambag'al oila boy oilaning hayotiga asta-sekin kirib boradi, oqibatda kutilmagan voqealar yuz beradi."
+  }
+]
